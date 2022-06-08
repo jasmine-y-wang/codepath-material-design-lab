@@ -38,3 +38,4 @@ Suggested extensions:
 This app leverages the following third-party library:
 
  * [Glide](https://github.com/bumptech/glide) - For image loading
+# codepath-material-design-lab
